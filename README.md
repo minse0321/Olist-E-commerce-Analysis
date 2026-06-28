@@ -59,7 +59,9 @@ olist-ecommerce-analysis/
 ## Dataset
 - Source: [Kaggle — Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - Period: September 2016 – September 2018
-- Size: 107,489 rows after preprocessing (original: 99,441 orders across 9 tables)
+- Original: 9 CSV files, 99,441 orders
+- After preprocessing: 107,489 rows × 27 columns
+- Note: Raw data not included due to file size. Download from Kaggle and run the notebook to reproduce.
 
 ## Dashboard
 🔗 [[View on Tableau Public]](https://public.tableau.com/app/profile/minseo.choi4768/viz/Olist_E-commerce_Analysis/Olist_Dashboard?publish=yes)(#)
