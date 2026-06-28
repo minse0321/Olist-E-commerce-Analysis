@@ -47,14 +47,13 @@ This project goes beyond EDA to apply **statistical hypothesis testing** to vali
 
 ## Project Structure
 olist-ecommerce-analysis/
-
 ├── README.md
-
 ├── Olist_Ecommerce_Analysis.ipynb
-
 └── data/
-
-└── olist_master.csv
+    ├── tableau_monthly.csv
+    ├── tableau_category.csv
+    ├── tableau_state_map.csv
+    └── tableau_late_review.csv
 
 ## Dataset
 - Source: [Kaggle — Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
@@ -64,4 +63,4 @@ olist-ecommerce-analysis/
 - Note: Raw data not included due to file size. Download from Kaggle and run the notebook to reproduce.
 
 ## Dashboard
-🔗 [[View on Tableau Public]](https://public.tableau.com/app/profile/minseo.choi4768/viz/Olist_E-commerce_Analysis/Olist_Dashboard?publish=yes)(#)
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/minseo.choi4768/viz/Olist_E-commerce_Analysis/Olist_Dashboard)
