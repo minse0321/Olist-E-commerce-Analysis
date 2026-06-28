@@ -1,4 +1,4 @@
-# 🛒 Olist Brazilian E-Commerce Analysis
+# 🛒 Olist 🇧🇷Brazilian E-Commerce Analysis
 
 ## Overview
 End-to-end analysis of 100,000+ real Brazilian e-commerce transactions from Olist (2016–2018).  
