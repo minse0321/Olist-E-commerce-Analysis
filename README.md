@@ -38,27 +38,13 @@ This project goes beyond EDA to apply **statistical hypothesis testing** to vali
 | Tableau Public | Interactive dashboard |
 
 ## Data Pipeline
-9 raw CSV files (Olist Kaggle dataset)
+1. 9 raw CSV files (Olist Kaggle dataset)
+2. Preprocessing — status filter, datetime conversion, outlier removal, 9-table JOIN
+3. EDA — monthly / hourly / category / region analysis
+4. Hypothesis Testing — t-test × 2, chi-square × 1
+5. Business Recommendations
+6. Tableau Dashboard
 
-↓
-
-Preprocessing (status filter, datetime conversion, outlier removal, JOIN)
-
-↓
-
-EDA (monthly/hourly/category/region analysis)
-
-↓
-
-Hypothesis Testing (t-test × 2, chi-square × 1)
-
-↓
-
-Business Recommendations
-
-↓
-
-Tableau Dashboard
 ## Project Structure
 olist-ecommerce-analysis/
 
