@@ -62,4 +62,4 @@ olist-ecommerce-analysis/
 - Size: 107,489 rows after preprocessing (original: 99,441 orders across 9 tables)
 
 ## Dashboard
-🔗 [View on Tableau Public](#) ← 나중에 링크 추가
+🔗 [[View on Tableau Public]](https://public.tableau.com/app/profile/minseo.choi4768/viz/Olist_E-commerce_Analysis/Olist_Dashboard?publish=yes)(#)
